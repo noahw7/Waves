@@ -1,2 +1,4 @@
 .project
 .classpath
+bin/me/joey/Waves/Renderer.class
+*.class
